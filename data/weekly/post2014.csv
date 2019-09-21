@@ -1,0 +1,12 @@
+Week,Day,Date,Time,Winner/tie,visit,Loser/tie,,PtsW,PtsL,YdsW,TOW,YdsL,TOL
+WildCard,Sat,January 3,4:20PM,Carolina Panthers,,Arizona Cardinals,boxscore,27,16,386,3,78,3
+WildCard,Sat,January 3,8:15PM,Baltimore Ravens,@,Pittsburgh Steelers,boxscore,30,17,299,1,387,3
+WildCard,Sun,January 4,1:05PM,Indianapolis Colts,,Cincinnati Bengals,boxscore,26,10,482,1,254,1
+WildCard,Sun,January 4,4:41PM,Dallas Cowboys,,Detroit Lions,boxscore,24,20,315,1,397,3
+Division,Sat,January 10,4:35PM,New England Patriots,,Baltimore Ravens,boxscore,35,31,422,1,428,2
+Division,Sat,January 10,8:21PM,Seattle Seahawks,,Carolina Panthers,boxscore,31,17,348,0,362,3
+Division,Sun,January 11,1:05PM,Green Bay Packers,,Dallas Cowboys,boxscore,26,21,416,1,315,1
+Division,Sun,January 11,4:40PM,Indianapolis Colts,@,Denver Broncos,boxscore,24,13,364,2,288,1
+ConfChamp,Sun,January 18,3:06PM,Seattle Seahawks,,Green Bay Packers,boxscore,28,22,397,5,306,2
+ConfChamp,Sun,January 18,6:50PM,New England Patriots,,Indianapolis Colts,boxscore,45,7,397,1,209,3
+SuperBowl,Sun,February 1,6:30PM,New England Patriots,N,Seattle Seahawks,boxscore,28,24,377,2,396,1
