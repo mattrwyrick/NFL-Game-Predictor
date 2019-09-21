@@ -1,6 +1,9 @@
 # NLP Play.i
 Implementation of AI algorithms to predict winners and losers in an NFL season.
 
+# Screenshots
+Screenshots of the webapp available in the screenshots folder
+
 ## Aglorithms implemented
 * Linear Regression
 * Decision Tree
